@@ -1,0 +1,12 @@
+# Ignore AWS CLI install files
+aws/
+awscliv2.zip
+
+# Ignore node_modules (npm packages)
+node_modules/
+
+# CDK context
+cdk.out/
+
+# VS Code settings (optional)
+.vscode/
